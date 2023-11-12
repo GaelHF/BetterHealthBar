@@ -1,0 +1,6 @@
+name: BetterHealthBar
+version: 1.0.0
+main: ca.vaxs.health.Main
+description: Displays the health below players name
+author: VAXS
+website: https://panel.vaxy-network.net/
